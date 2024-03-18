@@ -20,7 +20,7 @@ require (
 	github.com/cometbft/cometbft-db v0.7.0
 	github.com/confio/ics23/go v0.9.0
 	github.com/cosmos/btcutil v1.0.5
-	github.com/cosmos/cosmos-proto v1.0.0-beta.2
+	github.com/cosmos/cosmos-proto v1.0.0-beta.4
 	github.com/cosmos/cosmos-sdk/db v1.0.0-beta.1.0.20220726092710-f848e4300a8a
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/gogogateway v1.2.0
@@ -52,16 +52,16 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.14.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tidwall/btree v1.6.0
 	golang.org/x/crypto v0.7.0
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
 	google.golang.org/genproto v0.0.0-20230306155012-7f2fa6fef1f4
 	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.30.0
-	gotest.tools/v3 v3.4.0
-	pgregory.net/rapid v0.5.5
+	google.golang.org/protobuf v1.32.0
+	gotest.tools/v3 v3.5.1
+	pgregory.net/rapid v1.1.0
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -105,7 +105,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/orderedcode v0.0.1 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
